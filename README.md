@@ -1,6 +1,6 @@
 # Crawling_Data_Tiki
 Crawling 200.000 sản phẩm của tiki
-và chuẩn hóa lại data trường description về đúng định dạng text dự án được push trên branch master.
+và chuẩn hóa lại data trường description về đúng định dạng text dự án được push trên branch crawl.
 
 Sử dụng request để crawl data tiki.
 Sử dụng tqdm để hiển thị tiến trình crawl.
