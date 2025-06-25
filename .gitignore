@@ -1,0 +1,15 @@
+output_errors/
+output_parts/
+product_id_tiki.csv
+project2_errors.json
+project2.json.tar.bz2
+project2.json
+data.json
+.DS_Store
+/.idea/.gitignore
+/.idea/Data Engineer.iml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
+/README.md
+/.idea/vcs.xml
